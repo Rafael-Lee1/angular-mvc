@@ -10,17 +10,17 @@ export class About{
   content = `
 			Angular MVC adalah sebuah project sumber terbuka yang memudahkan pengguna untuk dapat mempelajari dan menggunakan angular dalam proses development website.
 			Dengan source code angular ini developer maupun user dapat menggunakan nya untuk kebutuhan membantu dalam membuat website modern berbasis angular, persembahan dari axcora technology team untuk digunakan.
-			Dan kini saat nya membangun situs modern mu menggunakan angular !!`;  
+			Dan kini saat nya membangun situs modern mu menggunakan angular !!`;
   cover1 = 'https://img.freepik.com/free-vector/creativity-concept-illustration_114360-1083.jpg?w=740&t=st=1653764537~exp=1653765137~hmac=41da35984f626ec8f6947fb0e35292f68a5e8559ea25c42aa1cd6b5ff3b540e8';
   sclist = 'Download Source Code project.';
   sc1 = 'Angular Point Of Sale →';
-  sc1url = 'https://www.hockeycomputindo.com/2020/11/free-download-angular-pos-open-source.html';
+  sc1url = 'https://github.com/Rafael-Lee1/angular-mvc';
   sc2 = 'Angular Online Shop →';
-  sc2url = 'https://www.hockeycomputindo.com/2021/01/angular-new-online-shop-modern-free.html';
+  sc2url = 'https://github.com/Rafael-Lee1/angular-mvc';
   sc3 = 'Phoniexs Angular CMS →';
-  sc3url = 'https://www.hockeycomputindo.com/2020/10/angular-cms-blog-new-phoneixs-angular.html';
+  sc3url = 'https://github.com/Rafael-Lee1/angular-mvc';
   sc4 = 'Android Angular →';
-  sc4url = 'https://www.hockeycomputindo.com/2021/10/build-android-application-with-angular.html';
+  sc4url = 'https://github.com/Rafael-Lee1/angular-mvc';
   sc5 = 'Angular Blog →';
-  sc5url = 'https://www.hockeycomputindo.com/2020/09/angular-blog-new-modern-with-seo.html';
+  sc5url = 'https://github.com/Rafael-Lee1/angular-mvc';
 }

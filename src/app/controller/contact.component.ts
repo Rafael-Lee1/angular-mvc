@@ -10,7 +10,7 @@ export class Contact{
   content = `
 			Entre em contato conosco para atender às suas necessidades de desenvolvimento de sites modernos usando Angular, crie um site moderno com Angular conosco.`;
   phone = '+000000000000';
-  wa = '+000000000000;
+  wa = '+000000000000';
   tel = 'tel:+000000000000';
   was = 'https://wa.me/5527999369724';
   mail = 'rafalee.dev@gmail.com';
