@@ -8,7 +8,7 @@ export class FooterComponent implements OnInit {
   Footers: Footer[] = [
     new Footer('Angular MVC', '/'),
     new Footer('Built with Angular', 'https://angular.io'),
-    new Footer('present by axcora', 'https://website.axcora.com'),
+    new Footer('present by Rafael Lee', 'https://github.com/Rafael-Lee1'),
   ];
 
   constructor() {}
