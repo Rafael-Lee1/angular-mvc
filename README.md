@@ -17,5 +17,5 @@
 ------------------------------
 # 📁 Acesso ao projeto
 
-**Você pode acessar o projeto clicando <a href="https://angularios.web.app/">aqui</a>.</p>
+**Você pode acessar o projeto clicando <a href="">aqui</a>.</p>
 
